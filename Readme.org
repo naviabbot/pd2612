@@ -1,0 +1,5 @@
+#+TITLE: Pd2612
+
+Who doesn't love the sound of the Sega Genesis? It has two more operators than an AdLib/Sound Blaster and powers Musha Aleste and Bare Knuckle (the series), four of the finest soundtracks in video games.
+
+Instructions of use is in the main.pd patch. It's a work in progress and I welcome Pull Requests.
